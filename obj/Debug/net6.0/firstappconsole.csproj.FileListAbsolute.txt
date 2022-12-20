@@ -1,0 +1,15 @@
+C:\Users\christian\Desktop\c##\firstappconsole\bin\Debug\net6.0\firstappconsole.exe
+C:\Users\christian\Desktop\c##\firstappconsole\bin\Debug\net6.0\firstappconsole.deps.json
+C:\Users\christian\Desktop\c##\firstappconsole\bin\Debug\net6.0\firstappconsole.runtimeconfig.json
+C:\Users\christian\Desktop\c##\firstappconsole\bin\Debug\net6.0\firstappconsole.dll
+C:\Users\christian\Desktop\c##\firstappconsole\bin\Debug\net6.0\firstappconsole.pdb
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.csproj.AssemblyReference.cache
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.AssemblyInfoInputs.cache
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.AssemblyInfo.cs
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.csproj.CoreCompileInputs.cache
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.dll
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\refint\firstappconsole.dll
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.pdb
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\firstappconsole.genruntimeconfig.cache
+C:\Users\christian\Desktop\c##\firstappconsole\obj\Debug\net6.0\ref\firstappconsole.dll
